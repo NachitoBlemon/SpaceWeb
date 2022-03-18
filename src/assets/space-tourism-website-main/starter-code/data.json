@@ -1,0 +1,108 @@
+{
+  "destinations": [
+    {
+      "name": "Luna",
+      "images": {
+        "png": "./assets/destination/image-moon.png",
+        "webp": "./assets/destination/image-moon.webp"
+      },
+      "description": "Vea nuestro planeta como nunca antes lo había visto. Un viaje relajante perfecto para ayudar a recuperar la perspectiva y volver renovado. Mientras esté allí, disfrute de un poco de historia visitando los sitios de aterrizaje de Luna 2 y Apolo 11.",
+      "distance": "384,400 km",
+      "travel": "3 dias"
+    },
+    {
+      "name": "Marte",
+      "images": {
+        "png": "./assets/destination/image-mars.png",
+        "webp": "./assets/destination/image-mars.webp"
+      },
+      "description": "No olvides empacar tus botas de montaña. Los necesitarás para enfrentarte a Olympus Mons, la montaña planetaria más alta de nuestro sistema solar. ¡Es dos veces y media el tamaño del Everest!",
+      "distance": "225 mil. km",
+      "travel": "9 meses"
+    },
+    {
+      "name": "Europa",
+      "images": {
+        "png": "./assets/destination/image-europa.png",
+        "webp": "./assets/destination/image-europa.webp"
+      },
+      "description": "Europa, la más pequeña de las cuatro lunas galileanas que orbitan alrededor de Júpiter, es el sueño de los amantes del invierno. Con una superficie helada, es perfecto para patinar sobre hielo, curling, hockey o simplemente relajarse en su cómoda cabaña invernal.",
+      "distance": "628 mil. km",
+      "travel": "3 años"
+    },
+    {
+      "name": "Titan",
+      "images": {
+        "png": "./assets/destination/image-titan.png",
+        "webp": "./assets/destination/image-titan.webp"
+      },
+      "description": "La única luna que se sabe que tiene una atmósfera densa además de la Tierra, Titán es un hogar lejos del hogar (¡solo unos cientos de grados más frío!). Como beneficio adicional, obtienes impresionantes vistas de los Anillos de Saturno.",
+      "distance": "1.6 bil. km",
+      "travel": "7 años"
+    }
+  ],
+  "crew": [
+    {
+      "name": "Douglas Hurley",
+      "images": {
+        "png": "./assets/crew/image-douglas-hurley.png",
+        "webp": "./assets/crew/image-douglas-hurley.webp"
+      },
+      "role": "Comandante",
+      "bio": "Douglas Gerald Hurley es un ingeniero estadounidense, expiloto de la Infantería de Marina y exastronauta de la NASA. Se lanzó al espacio por tercera vez como comandante de Crew Dragon Demo-2."
+    },
+    {
+      "name": "Mark Shuttleworth",
+      "images": {
+        "png": "./assets/crew/image-mark-shuttleworth.png",
+        "webp": "./assets/crew/image-mark-shuttleworth.webp"
+      },
+      "role": "Especialista en misiones",
+      "bio": "Mark Richard Shuttleworth es el fundador y director general de Canonical, la empresa detrás del sistema operativo Ubuntu basado en Linux. Shuttleworth se convirtió en el primer sudafricano en viajar al espacio como turista espacial."
+    },
+    {
+      "name": "Victor Glover",
+      "images": {
+        "png": "./assets/crew/image-victor-glover.png",
+        "webp": "./assets/crew/image-victor-glover.webp"
+      },
+      "role": "Piloto",
+      "bio": "Piloto en el primer vuelo operativo del SpaceX Crew Dragon a la Estación Espacial Internacional. Glover es comandante de la Marina de los EE. UU., donde pilotea un F/A-18. Fue miembro de la tripulación de la Expedición 64 y se desempeñó como ingeniero de vuelo de sistemas de estación."
+    },
+    {
+      "name": "Anousheh Ansari",
+      "images": {
+        "png": "./assets/crew/image-anousheh-ansari.png",
+        "webp": "./assets/crew/image-anousheh-ansari.webp"
+      },
+      "role": "Ingeniera de vuelo",
+      "bio": "Anousheh Ansari es una ingeniera iraní-estadounidense y cofundador de Prodea Systems. Ansari fue la cuarta turista espacial autofinanciada, la primera mujer autofinanciada en volar a la ISS y la primera iraní en el espacio."
+    }
+  ],
+  "technology": [
+    {
+      "name": "Vehículo de lanzamiento",
+      "images": {
+        "portrait": "./assets/technology/image-launch-vehicle-portrait.jpg",
+        "landscape": "./assets/technology/image-launch-vehicle-landscape.jpg"
+      },
+      "description": "Un vehículo de lanzamiento o cohete portador es un vehículo propulsado por cohete que se utiliza para transportar una carga útil desde la superficie de la Tierra al espacio, generalmente a la órbita terrestre o más allá. Nuestro cohete portador WEB-X es el más potente en funcionamiento. Con una altura de 150 metros, ¡es una vista impresionante en la plataforma de lanzamiento!"
+    },
+    {
+      "name": "Puerto espacial",
+      "images": {
+        "portrait": "./assets/technology/image-spaceport-portrait.jpg",
+        "landscape": "./assets/technology/image-spaceport-landscape.jpg"
+      },
+      "description": "Un puerto espacial o cosmódromo es un sitio para lanzar (o recibir) naves espaciales, por analogía con el puerto marítimo para barcos o el aeropuerto para aviones. Con sede en el famoso Cabo Cañaveral, nuestro puerto espacial tiene una ubicación ideal para aprovechar la rotación de la Tierra para el lanzamiento."
+    },
+    {
+      "name": "Cápsula espacial",
+      "images": {
+        "portrait": "./assets/technology/image-space-capsule-portrait.jpg",
+        "landscape": "./assets/technology/image-space-capsule-landscape.jpg"
+      },
+      "description": "Una cápsula espacial es una nave espacial a menudo tripulada que utiliza una cápsula de reentrada de cuerpo romo para volver a entrar en la atmósfera de la Tierra sin alas. Nuestra cápsula es donde pasará su tiempo durante el vuelo. Incluye un gimnasio espacial, cine y muchas otras actividades para mantenerte entretenido."
+    }
+  ]
+}
